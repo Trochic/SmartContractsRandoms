@@ -9,3 +9,6 @@ A basic token smart contract
 
 4_BetPrototype.sol : 
 Prototype of a smart contract that allows Betting on a subject where there is a Side A, a Side B and a Draw side. When the winner is chosen, the losers ETH is equally divided between the winners.
+
+5_BEP20Token :
+A basic BEP20 Token contract that was used in my teaching sessions
